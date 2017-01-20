@@ -1,0 +1,12 @@
+{
+    "name": "rockers/mydate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rakesh patel",
+            "email": "rockersinfo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
